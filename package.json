@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "http-server": "^14.1.1",
+    "pnotify": "file:6.0.1/dist/PNotifyBrightTheme.css"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "parcel index.html" ,
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "\\"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.11.0"
+  }
+}
